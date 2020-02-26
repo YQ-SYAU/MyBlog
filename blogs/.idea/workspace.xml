@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="blog:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="915025a5-2d4d-43d0-be7a-d2b255485033" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/blog/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LogAop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/controller/LogAop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="257" column="26" selection-start-line="257" selection-start-column="26" selection-end-line="258" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lunbotu()</find>
+      <find>show</find>
+      <find>c()</find>
+      <find>username</find>
+      <find>userInfo</find>
+      <find>refresh</find>
+      <find>changePageSize</find>
+      <find>pageInfo</find>
+      <find>${pageContext.request.contextPath}/admin</find>
+      <find>${pageContext.request.contextPath}/admin/admin/</find>
+      <find>${pageContext.request.contextPath}/</find>
+      <find>images/</find>
+      <find>/images//ad3.jpg</find>
+      <find>font</find>
+      <find>&quot;js/</find>
+      <find>2</find>
+      <find>查</find>
+      <find>查看</find>
+      <find>carousel-inner</find>
+      <find>var page = 1</find>
+      <find>note</find>
+      <find>glyphicon-eye-open</find>
+      <find>profi</find>
+      <find>&gt;&gt;</find>
+      <find>ol</find>
+      <find>&lt;</find>
+      <find>F</find>
+      <find>关注</find>
+      <find>uId</find>
+      <find>uploadFile</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;/admin/plugins/</replace>
+      <replace>/admin/plugins</replace>
+      <replace>/admin/css</replace>
+      <replace>../admin</replace>
+      <replace>../admin/</replace>
+      <replace>/blog/css</replace>
+      <replace>/blog/css/</replace>
+      <replace>/blog/plugins/</replace>
+      <replace>${pageContext.request.contextPath}/</replace>
+      <replace>${pageContext.request.contextPath}/admin/img</replace>
+      <replace>${pageContext.request.contextPath}/admin</replace>
+      <replace>${pageContext.request.contextPath}/WEB-INF</replace>
+      <replace>${pageContext.request.contextPath}/W/</replace>
+      <replace>${pageContext.request.contextPath}/WEB-INF/</replace>
+      <replace>/admin/</replace>
+      <replace>${pageContext.request.contextPath}/css/</replace>
+      <replace>${pageContext.request.contextPath}</replace>
+      <replace>${pageContext.request.contextPath}/admin/</replace>
+      <replace>&quot;../js/</replace>
+      <replace>${pageContext.request.contextPath}/images/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\JavaWorkspace\blogs\blog\src\main\webapp\picture</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/pages/updatePassword.html" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/service/AttentionService.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/dao/AttentionDao.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/pages/file.html" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/utils/BCryptPasswordEncoderUtil.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/service/CommentService.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/service/SupportService.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/dao/ArticleDao.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/service/impl/SupportServiceImpl.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/dao/SupportDao.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/service/impl/CommentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/dao/CommentDao.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/domain/Article.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/resources/com/syau/dao/ArticleDao.xml" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/service/impl/ArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/pages/updatePassword.jsp" />
+        <option value="$PROJECT_DIR$/blog/src/main/resources/spring-security.xml" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/service/UserService.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/pages/register.jsp" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/controller/SysLogController.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/controller/MySpaceController.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/pages/publish.jsp" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/pages/category-article.jsp" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/service/impl/AttentionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/controller/SupAndAttController.java" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/csdn1.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/csdn2.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/csdn3.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/csdn4.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/csdn5.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/pages/my-space.jsp" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/ocsdn1.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/ocsdn2.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/ocsdn3.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/acsdn1.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/acsdn2.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/pages/myArticle.jsp" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/pages/attention.jsp" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/alcsdn1.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/alcsdn2.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/css/alcsdn3.css" />
+        <option value="$PROJECT_DIR$/blog/src/main/webapp/pages/articleList.jsp" />
+        <option value="$PROJECT_DIR$/blog/src/main/java/com/syau/controller/LogAop.java" />
+        <option value="$PROJECT_DIR$/blog/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/aaa/java/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\aaa\java\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="blog Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="blog Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="blog Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/blog/src/main/webapp/admin/plugins/bootstrap-markdown/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="226" />
+    <option name="y" value="48" />
+    <option name="width" value="1077" />
+    <option name="height" value="683" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogs" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogs" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogs" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogs" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="Principal&#9;PSI&#9;JAVA://java.security.Principal&#10;List&#9;PSI&#9;JAVA://java.util.List" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.syau.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaWorkspace\blogs\blog\src\main\webapp\images" />
+      <recent name="D:\JavaWorkspace\blogs\blog\src\main\webapp\pages" />
+      <recent name="D:\JavaWorkspace\blogs\blog\src\main\webapp" />
+      <recent name="D:\JavaWorkspace\blogs\blog\src\main\webapp\js" />
+      <recent name="D:\JavaWorkspace\blogs\blog\src\main\webapp\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaWorkspace\blogs\blog\src\main\webapp\css" />
+      <recent name="D:\JavaWorkspace\blogs\blog\src\main\webapp\picture\article" />
+      <recent name="D:\JavaWorkspace\blogs\blog\src\main\webapp\admin\img" />
+      <recent name="D:\JavaWorkspace\blogs\blog\src\main\webapp\admin\css" />
+      <recent name="D:\JavaWorkspace\blogs\blog\src\main\webapp\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.blog">
+    <configuration name="BCryptPasswordEncoderUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syau.utils.BCryptPasswordEncoderUtil" />
+      <module name="blog" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syau.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="UUIDUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syau.utils.UUIDUtils" />
+      <module name="blog" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syau.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="blog" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/blog" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.blog" />
+      <item itemvalue="Application.UUIDUtils" />
+      <item itemvalue="Application.BCryptPasswordEncoderUtil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BCryptPasswordEncoderUtil" />
+        <item itemvalue="Application.UUIDUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="915025a5-2d4d-43d0-be7a-d2b255485033" name="Default" comment="" />
+      <created>1560392595395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560392595395</updated>
+      <workItem from="1560392597848" duration="17626000" />
+      <workItem from="1560413843877" duration="285000" />
+      <workItem from="1560424413321" duration="8876000" />
+      <workItem from="1560472565952" duration="21767000" />
+      <workItem from="1560505058408" duration="96000" />
+      <workItem from="1561170869647" duration="982000" />
+      <workItem from="1561177460080" duration="133000" />
+      <workItem from="1561186318679" duration="16457000" />
+      <workItem from="1561271952759" duration="22466000" />
+      <workItem from="1561598438520" duration="8000" />
+      <workItem from="1561614918387" duration="11017000" />
+      <workItem from="1561649489420" duration="3580000" />
+      <workItem from="1561687484152" duration="3577000" />
+      <workItem from="1561706580033" duration="5907000" />
+      <workItem from="1561797919622" duration="16720000" />
+      <workItem from="1561893800291" duration="11839000" />
+      <workItem from="1561940863134" duration="15091000" />
+      <workItem from="1561966935917" duration="17165000" />
+      <workItem from="1562027833204" duration="18301000" />
+      <workItem from="1562055788686" duration="10497000" />
+      <workItem from="1562114442070" duration="27945000" />
+      <workItem from="1562201602500" duration="5980000" />
+      <workItem from="1562223073767" duration="16878000" />
+      <workItem from="1562286791130" duration="3546000" />
+      <workItem from="1562290663962" duration="19543000" />
+      <workItem from="1562327624514" duration="5073000" />
+      <workItem from="1562332820181" duration="4170000" />
+      <workItem from="1562377146244" duration="7383000" />
+      <workItem from="1562388618591" duration="16000" />
+      <workItem from="1562547974596" duration="2951000" />
+      <workItem from="1562567681092" duration="9960000" />
+      <workItem from="1562635181327" duration="70001000" />
+      <workItem from="1562889364280" duration="1809000" />
+      <workItem from="1562894079540" duration="3584000" />
+      <workItem from="1563187373096" duration="974000" />
+      <workItem from="1563191729371" duration="32000" />
+      <workItem from="1573131038957" duration="420000" />
+      <workItem from="1573132396949" duration="278000" />
+      <workItem from="1573132724072" duration="59000" />
+      <workItem from="1573203750516" duration="96000" />
+      <workItem from="1573213410149" duration="778000" />
+      <workItem from="1573218997301" duration="75000" />
+      <workItem from="1573388970132" duration="577000" />
+      <workItem from="1573437624026" duration="359000" />
+      <workItem from="1581856131981" duration="4744000" />
+      <workItem from="1581902857990" duration="1390000" />
+      <workItem from="1581905022359" duration="1373000" />
+      <workItem from="1582285031211" duration="151000" />
+      <workItem from="1582434361911" duration="271000" />
+      <workItem from="1582526729141" duration="20000" />
+      <workItem from="1582697586924" duration="661000" />
+      <workItem from="1582698386361" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="393739000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" sideWeight="0.13313162" weight="0.15136054" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50075644" side_tool="true" weight="0.3282313" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.35779122" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6955782" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.017006803" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28895614" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38831615" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.32924694" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.02233677" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.12027492" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.3298969" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.32924694" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.3298969" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.09793814" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3298969" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.12027492" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.25493172" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24357034" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.185567" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.15979381" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="61" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpServletRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/controller/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/pages/publish.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="92" column="24" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/pages/category-article.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="56" column="72" selection-start-line="56" selection-start-column="72" selection-end-line="56" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.2.RELEASE/spring-context-5.0.2.RELEASE-sources.jar!/org/springframework/ui/ConcurrentModel.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.2.RELEASE/spring-context-5.0.2.RELEASE-sources.jar!/org/springframework/validation/support/BindingAwareConcurrentModel.java" />
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/csdn1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="7048" column="7" selection-start-line="7048" selection-start-column="7" selection-end-line="7048" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/csdn2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25419" selection-start-column="25419" selection-end-column="25419" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/csdn3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="213" column="1" selection-start-line="213" selection-start-column="1" selection-end-line="213" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/csdn4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="41481" selection-start-line="1" selection-start-column="41481" selection-end-line="1" selection-end-column="41481" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/csdn5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="33870" selection-start-line="1" selection-start-column="33870" selection-end-line="1" selection-end-column="33870" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/ocsdn1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret column="43432" selection-start-column="43432" selection-end-column="43432" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/ocsdn2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2816" selection-start-column="2816" selection-end-column="2816" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/ocsdn3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="2101" selection-start-line="3" selection-start-column="2101" selection-end-line="3" selection-end-column="2101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/acsdn1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43432" selection-start-column="43432" selection-end-column="43432" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/acsdn2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2816" selection-start-column="2816" selection-end-column="2816" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/pages/myArticle.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2442">
+          <caret line="111" column="46" selection-start-line="111" selection-start-column="46" selection-end-line="111" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/pages/my-space.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/controller/SupAndAttController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/service/impl/AttentionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/alcsdn1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43432" selection-start-column="43432" selection-end-column="43432" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/alcsdn2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2816" selection-start-column="2816" selection-end-column="2816" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/css/alcsdn3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16368" selection-start-line="3" selection-start-column="16368" selection-end-line="3" selection-end-column="16368" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/pages/articleList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="25" column="79" selection-start-line="25" selection-start-column="79" selection-end-line="25" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/pages/attention.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="42" column="80" selection-start-line="42" selection-start-column="80" selection-end-line="42" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/pages/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/pages/admin-index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/pages/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="115" column="43" selection-start-line="115" selection-start-column="43" selection-end-line="115" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/dao/ArticleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/dao/AttentionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/dao/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/dao/RoleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/dao/SupportDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/resources/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="53" column="55" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/controller/MySpaceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="236" column="51" selection-start-line="236" selection-start-column="51" selection-end-line="236" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-554">
+          <caret line="57" column="42" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="118" column="39" selection-start-line="118" selection-start-column="39" selection-end-line="118" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/pages/article-info.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="342" column="56" lean-forward="true" selection-start-line="342" selection-start-column="46" selection-end-line="342" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/pages/login.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/pages/admin-header.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="11" />
+          <folding>
+            <element signature="e#1234#1250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/main/java/com/syau/controller/LogAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="257" column="26" selection-start-line="257" selection-start-column="26" selection-end-line="258" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>blog:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>blog</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: c3p0:c3p0:0.9.1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.syau.dao.ArticleDao">
+    <!-- 配置根据分类id删除文章操作 -->
+    <delete id="delByCid" parameterType="String">
+        delete from article where c_id = #{c_id}
+    </delete>
+
+    <!-- 封装排行榜返还数据类型-->
+    <resultMap id="supportList" type="com.syau.domain.Article">
+        <id column="id" property="id"/>
+        <result column="title" property="title"/>
+        <result column="content" property="content"/>
+        <result column="picture" property="picture"/>
+        <result column="support" property="support"/>
+        <result column="publishTime" property="publishTime"/>
+        <result column="browse" property="browse"/>
+        <association property="user" javaType="com.syau.domain.UserInfo"
+            select="com.syau.dao.UserDao.findById" column="u_id"/>
+        <association property="category" javaType="com.syau.domain.Category"
+                     select="com.syau.dao.IndexDao.findById" column="c_id"/>
+    </resultMap>
+
+    <!-- 获取排行榜数据 点赞最多-->
+    <select id="findSupport" resultMap="supportList">
+        select * from article order by support desc limit 6;
+    </select>
+
+    <!-- 获取排行榜数据 浏览最多-->
+    <select id="findBrowse" resultMap="supportList">
+        select * from article order by browse desc limit 6;
+    </select>
+
+    <!-- 获取最新数据-->
+    <select id="findNew" resultMap="supportList">
+        select * from article  order by publishTime desc limit 6;
+    </select>
+
+    <!-- 分类获取文章数据  参数赋值对应赋值-->
+    <select id="findByCid" resultMap="supportList">
+         select * from article where c_id=#{cid}  order by publishTime desc
+    </select>
+
+    <!-- 通过id查找数据-->
+    <select id="findById" resultMap="supportList">
+        select * from article where id = #{id}
+    </select>
+
+    <!-- 通过用户id获取发布文章总数-->
+    <select id="findCountByUId" resultType="int">
+        select count(*) from article where u_id = #{id}
+    </select>
+
+    <!-- 修改文章-->
+    <update id="update">
+        update article set title = #{title},content= #{content},picture=#{picture},support=#{support},publishTime=#{publishTime},browse=#{browse},commentNum=#{commentNum} where id=#{id};
+    </update>
+
+    <!-- 通过用户id查找用户发布的所有文章-->
+    <select id="findByUid" resultType="com.syau.domain.Article">
+        select * from article where u_id=#{uId}
+    </select>
+
+    <!--  查找用户关原创文章数目-->
+    <select id="findCountByUid" resultType="int">
+        select count(*) from article where u_id = #{uId}
+    </select>
+
+    <!-- 保存文章信息-->
+    <delete id="save" parameterType="com.syau.domain.Article">
+        insert into article(id,title,content,picture,support,publishTime,browse,u_id,c_id,commentNum)
+        values (#{id},#{title},#{content},#{picture},#{support},#{publishTime},#{browse},#{user.id},#{category.id},#{commentNum})
+    </delete>
+
+    <!-- 获取我发布的文章信息-->
+    <select id="findMyArticle" resultType="com.syau.domain.Article">
+        select * from article where u_id =#{uId} order by publishTime desc
+    </select>
+
+    <!-- 通过id删除一条文章信息-->
+    <delete id="delArticle" parameterType="String">
+        delete from article where id=#{aId}
+    </delete>
+</mapper>
